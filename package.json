@@ -7,7 +7,7 @@
     "start": "node index.js",
     "dev": "nodemon index.js",
     "test": "node --test",
-    // "lint": "npx eslint ."
+    "lint": "npx eslint ."
   },
   "author": "Trisha C",
   "license": "ISC",
@@ -21,7 +21,7 @@
   "devDependencies": {
     "@eslint/js": "^9.9.1",
     "@stylistic/eslint-plugin-js": "^2.7.1",
-    // "eslint": "github:eslint/js",
+    "eslint": "github:eslint/js",
     "globals": "^15.9.0",
     "nodemon": "^3.1.4"
   }

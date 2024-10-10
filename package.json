@@ -1,7 +1,7 @@
 {
-  "name": "part3",
+  "name": "notes_backend",
   "version": "1.0.0",
-  "description": "fullstack open exercises for part3",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
